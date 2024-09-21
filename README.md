@@ -8,8 +8,6 @@ This repository contains an in-depth analysis of Uber rides data, focusing on ex
 - [Analysis](#analysis)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [Results](#results)
-- [Conclusion](#conclusion)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -52,3 +50,11 @@ To run this project on your local machine:
    ```bash
    git clone https://github.com/AryanDaksh/Uber-Rides-Data-Analysis.git
    cd Uber-Rides-Data-Analysis
+
+## Contributing
+
+If you wish to contribute to this project, feel free to submit a pull request or raise an issue.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
